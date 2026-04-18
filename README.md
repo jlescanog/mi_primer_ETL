@@ -80,5 +80,4 @@ mi_primer_ETL/
 - La carpeta `output/` se crea automáticamente si no existe.
 - El script usa pandas para el procesamiento de datos y pyarrow para guardar en formato Parquet.
 
-¡Disfruta explorando tu primer pipeline ETL!</content>
-<parameter name="filePath">d:\ian\mi_primer_ETL\README.md
+¡Disfruta explorando tu primer pipeline ETL!
